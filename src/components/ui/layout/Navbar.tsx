@@ -6,8 +6,8 @@ const Navbar = () => {
     <motion.header
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
-      transition={{ duration: 2 }}
-      className=" h-[40px] mt-4"
+      transition={{ delay: 1, duration: 0.5, ease: "easeInOut" }}
+      className=" h-16 w-full fixed z-[999] bg-white"
     >
       <nav className=" w-full max-w-[1230px] mx-auto px-[20px] flex justify-between h-full items-center">
         <span className="text-2xl font-semibold">iRepair</span>
