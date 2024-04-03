@@ -1,6 +1,6 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite and Framer Motion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple animation landing page, I just learning framer motion properly. This landing page you can use for your Electric shop, modile shop and laptop repaire shop.
 
 Currently, two official plugins are available:
 
